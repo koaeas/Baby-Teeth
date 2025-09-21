@@ -1,163 +1,62 @@
-<!DOCTYPE HTML>
-<!--
-  Baby Teeth — Shop Landing
-  Bound & Petal Press © 2025
--->
+<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <title>Baby Teeth — Gregg Valentine | Bound & Petal Press</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-  <meta name="description" content="Baby Teeth is a hauntingly whimsical poetry picture book by Gregg Valentine. Explore the book and shop merch from Bound & Petal Press." />
+  <title>Baby Teeth — by Gregg Valentine</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Baby Teeth is a playful, whimsical collection of poems by Gregg Valentine." />
 
-  <!-- Open Graph (social previews) -->
-  <meta property="og:title" content="Baby Teeth — Gregg Valentine" />
-  <meta property="og:description" content="A hauntingly whimsical poetry picture book. Shop the book and merch." />
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://YOURDOMAIN.com/" />
-  <meta property="og:image" content="https://YOURDOMAIN.com/og-image.jpg" />
-
-  <!-- Twitter -->
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Baby Teeth — Gregg Valentine" />
-  <meta name="twitter:description" content="A whimsical poetry picture book. Shop the book and merch." />
-  <meta name="twitter:image" content="https://YOURDOMAIN.com/og-image.jpg" />
-
-  <link rel="icon" href="/favicon.png" />
-  <link rel="stylesheet" href="assets/css/main.css" />
-  <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@600;700&family=Nunito:wght@400;700&display=swap" rel="stylesheet">
   <style>
-    /* Minimal tweaks on top of HTML5 UP styles */
-    .hero { padding: 4rem 2rem 2rem; text-align: center; }
-    .hero__logo { width: 96px; height: 96px; object-fit: cover; border-radius: 12px; margin: 0 auto 1rem; }
-    .hero h1 { margin-bottom: .25rem; }
-    .hero p.lede { opacity: .85; margin: .25rem 0 1.25rem; }
-    .cta-wrap { display: flex; gap: .75rem; justify-content: center; flex-wrap: wrap; }
-    .cta-wrap .button { min-width: 220px; }
-
-    .feature { max-width: 1100px; margin: 0 auto; padding: 2rem; }
-    .feature-grid { display: grid; grid-template-columns: repeat(12, 1fr); gap: 1rem; align-items: stretch; }
-    .card { background: rgba(255,255,255,.08); border-radius: .75rem; padding: 1rem; text-align: center; height: 100%; }
-    .card img { width: 100%; height: 260px; object-fit: cover; border-radius: .5rem; margin-bottom: .75rem; }
-    .card h3 { margin: .25rem 0 .25rem; }
-    .card p { opacity: .8; font-size: 0.95rem; margin-bottom: .75rem; }
-    .card .button { width: 100%; }
-
-    /* Responsive columns: 12-col grid */
-    .span-4 { grid-column: span 4; }
-    @media (max-width: 980px) { .span-4 { grid-column: span 6; } }
-    @media (max-width: 736px) { .span-4 { grid-column: span 12; } }
-
-    .about, .newsletter { max-width: 900px; margin: 0 auto; padding: 2rem; }
-    .about p { opacity: .9; line-height: 1.7; }
-
-    .newsletter form { display: grid; grid-template-columns: 1fr auto; gap: .5rem; max-width: 560px; margin: 0 auto; }
-    .newsletter input[type="email"] { padding: .9rem .9rem; border-radius: .5rem; border: 1px solid rgba(255,255,255,.2); background: rgba(255,255,255,.06); color: inherit; }
-    .newsletter button { padding: .9rem 1.1rem; }
-
-    footer { padding: 2.5rem 1rem 3rem; text-align: center; opacity: .8; }
-    .socials { display: flex; gap: .75rem; justify-content: center; margin: .75rem 0 0; }
+    :root{
+      --bg:#fffdf7;
+      --ink:#222;
+      --accent:#ffd86b;
+    }
+    *{box-sizing:border-box;}
+    body{
+      margin:0; background:var(--bg); color:var(--ink);
+      font-family:'Nunito', sans-serif; text-align:center;
+      display:flex; align-items:center; justify-content:center;
+      min-height:100vh; padding:20px;
+    }
+    .wrap{ max-width:420px; }
+    h1{
+      font-family:'Quicksand', sans-serif;
+      font-size:clamp(32px,6vw,48px); margin:16px 0 8px;
+    }
+    .byline{ margin:0 0 20px; opacity:.85; }
+    img.cover{
+      width:200px; max-width:80%; border-radius:12px;
+      box-shadow:0 6px 16px rgba(0,0,0,.1); margin:0 auto 20px;
+    }
+    p.tag{ font-size:1.05rem; margin:0 0 20px; }
+    a.btn{
+      display:inline-block; background:var(--accent); color:#000;
+      text-decoration:none; padding:14px 24px; border-radius:12px;
+      font-weight:700; font-size:1.1rem;
+      box-shadow:0 4px 10px rgba(0,0,0,.08);
+      transition:transform .08s ease;
+    }
+    a.btn:hover{ transform:translateY(-2px); }
+    footer{ margin-top:30px; font-size:.9rem; opacity:.7; }
   </style>
 </head>
-<body class="is-preload">
-  <div id="wrapper">
-
-    <!-- HERO -->
-    <section class="hero" id="top">
-      <!-- Optional logo -->
-      <!-- <img class="hero__logo" src="images/logo-babyteeth.png" alt="Baby Teeth logo"> -->
-      <h1>Baby Teeth</h1>
-      <p class="lede">Poems by <strong>Gregg Valentine</strong> · Published by <strong>Bound &amp; Petal Press</strong></p>
-
-      <div class="cta-wrap">
-        <a href="https://shop.ingramspark.com/b/084?params=OV4ukmegtWDObH13wirOQiReoBDz9pyii5jjI8LeO84" class="button primary" target="_blank" rel="noopener">Buy the Book</a>
-        <a href="https://baby-teeth.printify.me/" class="button" target="_blank" rel="noopener">Shop Merch on Etsy</a>
-      </div>
-    </section>
-
-    <!-- FEATURED PRODUCTS -->
-    <section class="feature" id="shop">
-      <h2 style="text-align:center; margin-bottom: 1rem;">Featured</h2>
-      <div class="feature-grid">
-        <!-- Book (embed card) -->
-        <article class="card span-4" style="display:flex;justify-content:center;align-items:center;">
-          <div style="border: 1px solid #DCDCDC; border-radius: 12px; padding: 15px; display: flex; width:100%; max-width:300px; background:#fff;">
-            <div style="flex: 45%; padding-right: 15px;">
-              <img src="https://image-hub-cloud.lightningsource.com/2011-04-01/Images/front_cover/x200/sku/9798218775520.jpg?viewkey=a6a25d17bb2f64d13f4a892bac5e24b8255b9fb1d76861d6148cb60090a00e87"
-                   alt="Baby Teeth book cover"
-                   style="width: 96px; height: auto;" />
-            </div>
-            <div style="flex: 55%;">
-              <div style="text-align: left; font: normal normal bold 16px/22px Open Sans; padding: 5px;">
-                Baby Teeth
-              </div>
-              <div style="text-align: left; font: italic normal normal 13px/18px Open Sans; padding: 5px;">
-                Gregg Valentine · Bound &amp; Petal Press
-              </div>
-              <div style="padding:5px;">
-                <a href="https://shop.ingramspark.com/b/084?params=OV4ukmegtWDObH13wirOQiReoBDz9pyii5jjI8LeO84"
-                   target="_blank" rel="noopener"
-                   style="background:#FEBE10; border-radius:8px; color:black; text-decoration:none; display:inline-block; padding:6px 18px; font: normal normal bold 16px/22px Open Sans;">
-                  Buy Now
-                </a>
-              </div>
-            </div>
-          </div>
-        </article>
-
-        <!-- Journal -->
-        <article class="card span-4">
-          <img src="images/journal.jpg" alt="Campaign journal">
-          <h3>Campaign Journal</h3>
-          <p>Chiaroscuro series notebook—perfect for notes, drafts, or little daydreams.</p>
-          <a href="https://www.etsy.com/shop/TheWholeHoard?section_id=journals" class="button" target="_blank" rel="noopener">View on Etsy</a>
-        </article>
-
-        <!-- Stickers/Mugs -->
-        <article class="card span-4">
-          <img src="images/merch.jpg" alt="Stickers and mug">
-          <h3>Stickers &amp; Mugs</h3>
-          <p>Cozy, hand-drawn merch from The Whole Hoard—stickers, mugs, and more.</p>
-          <a href="https://www.etsy.com/shop/TheWholeHoard" class="button" target="_blank" rel="noopener">Browse Merch</a>
-        </article>
-      </div>
-    </section>
-
-    <!-- ABOUT -->
-    <section class="about" id="about">
-      <h2 style="text-align:center;">About the Book</h2>
-      <p style="margin-top:.5rem;">
-        <em>Baby Teeth</em> is a collection of poems that nibble, bite, and grin—equal parts tender and mischievous.
-        Illustrated in a soft, storybook style, it’s made for readers who appreciate a little shadow with their light.
-      </p>
-    </section>
-
-    <!-- NEWSLETTER (optional: wire to Mailchimp/ConvertKit/Formspree) -->
-    <section class="newsletter" id="newsletter">
-      <h2 style="text-align:center;">Get updates</h2>
-      <form action="#" method="post" onsubmit="alert('Replace this form with your email provider embed.'); return false;">
-        <label for="email" class="visually-hidden">Email</label>
-        <input id="email" name="email" type="email" placeholder="you@example.com" required />
-        <button class="button primary" type="submit">Subscribe</button>
-      </form>
-      <p style="text-align:center; opacity:.75; margin-top:.5rem;">Occasional releases &amp; restocks. Unsubscribe anytime.</p>
-    </section>
-
-    <!-- FOOTER -->
-    <footer id="footer">
-      <p>© <span id="year"></span> Bound &amp; Petal Press · All rights reserved.</p>
-      <div class="socials">
-        <a href="https://instagram.com/TheWholeHoard" class="icon brands fa-instagram" aria-label="Instagram"></a>
-        <a href="mailto:hello@boundandpetal.com" class="icon solid fa-envelope" aria-label="Email"></a>
-      </div>
+<body>
+  <div class="wrap">
+    <img class="cover" alt="Baby Teeth book cover"
+         src="https://image-hub-cloud.lightningsource.com/2011-04-01/Images/front_cover/x200/sku/9798218775520.jpg?viewkey=a6a25d17bb2f64d13f4a892bac5e24b8255b9fb1d76861d6148cb60090a00e87">
+    <h1>Baby Teeth</h1>
+    <p class="byline">by Gregg Valentine</p>
+    <p class="tag">A playful collection of poems, full of bounce and smiles.</p>
+    <a class="btn" target="_blank" rel="noopener"
+       href="https://shop.ingramspark.com/b/084?params=OV4ukmegtWDObH13wirOQiReoBDz9pyii5jjI8LeO84">Buy Now</a>
+    <footer>
+      © <span id="year"></span> Gregg Valentine
     </footer>
-
   </div>
-
   <script>
     document.getElementById('year').textContent = new Date().getFullYear();
   </script>
 </body>
 </html>
-
