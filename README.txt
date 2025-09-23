@@ -1,46 +1,46 @@
-Parallelism by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Baby Teeth
 
+Baby Teeth is a children’s poetry collection written by Gregg Valentine and brought to life with whimsical, vintage-inspired illustrations. This project combines storytelling, visual art, and self-publishing to create a one-of-a-kind book that feels like a modern classic.
 
-It's done! Parallelism was an idea I mocked up a few months ago but, due to other
-committments, didn't get around to putting to code until recently. Different to
-my more general-purpose freebies, this one's specifically built for portfolio use
-with a very unique look/layout. Hope you enjoy it!
+Published under Bound & Petal Press, Baby Teeth is the first in a series of creative works blending poetry and picture books.
 
-Demo images* are courtesy of the supremely talented photographer Felicia Simion.
-If you like photography or just enjoy being blown away by awesome stuff, check
-out her portfolio for more stunning images:
+About the Book
 
-http://ineedchemicalx.deviantart.com/
+Baby Teeth is a collection of poems that explore childhood wonder, mischief, and imagination. Each poem is paired with hand-drawn illustrations in a sepia-toned, storybook style reminiscent of Shel Silverstein, Frog and Toad, and Little Critter.
 
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Felicia's work without her explicit permission!)
+The project began as a collaboration between Gregg Valentine (author, poet, filmmaker) and Ashley Valentine (designer, illustrator, and creative partner). Together, we set out to create a book that feels both timeless and contemporary—perfect for families, teachers, collectors, and fans of modern children’s literature.
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+Features
 
-AJ
-aj@lkn.io | @ajlkn
+📖 Original Poetry – playful, lyrical, and accessible to kids and adults alike.
 
+✏️ Illustrated by Hand – vintage pencil & ink cross-hatching with a warm, nostalgic tone.
 
-Credits:
+🌱 Indie Published – released through Bound & Petal Press using IngramSpark for global distribution.
 
-	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
-			"Pasadena" (ineedchemicalx.deviantart.com/art/Pasadena-357650036)
-			"Your really got me" (ineedchemicalx.deviantart.com/art/You-really-got-me-345249340)
-			"Ad Infinitum" (ineedchemicalx.deviantart.com/art/Ad-infinitum-354203162)
-			"Different." (ineedchemicalx.deviantart.com/art/Different-353708988)
-			"Elysium" (ineedchemicalx.deviantart.com/art/Elysium-355393900)
-			"Kingdom of the Wind" (ineedchemicalx.deviantart.com/art/Kingdom-of-the-Wind-348268044)
-			"The Pursuit" (ineedchemicalx.deviantart.com/art/The-Pursuit-355003425)
-			"Boundless" (ineedchemicalx.deviantart.com/art/Boundless-291831118)
-			"The Spectators" (ineedchemicalx.deviantart.com/art/The-Spectators-342155982)
+🎨 Cohesive Design – soft muted colors, parchment backgrounds, and a classic picture-book feel.
 
-	Icons:
-		Font Awesome (fontawesome.io)
+Where to Find Baby Teeth
 
-	Other:
-		jQuery (jquery.com)
-		normalizeWheel (@miorel + @pieterv of Facebook)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+📚 Available worldwide through major retailers (Amazon, Barnes & Noble, Bookshop.org, etc.).
+
+🏡 Direct from Bound & Petal Press
+ for special editions and merchandise.
+
+🎨 Related artwork and creative updates are shared on Instagram, Tumblr, and Etsy under The Whole Hoard and Bound & Petal Press.
+
+About the Author
+
+Gregg Valentine is a poet, storyteller, and multimedia artist. His work spans children’s literature, stop-motion film, and music. With Baby Teeth, Gregg brings his love of playful language and narrative to young readers and families.
+
+About Bound & Petal Press
+
+Bound & Petal Press is a small, independent publisher dedicated to nurturing poetry, picture books, and imaginative storytelling. Our mission is to publish books that feel beautiful in hand, timeless on the shelf, and magical in the hearts of readers.
+
+Contributing
+
+This GitHub repository exists to share updates, notes, and creative resources behind Baby Teeth. While the core content is closed, we welcome ideas, feedback, and community support!
+
+Keywords for SEO
+
+Baby Teeth children’s poetry book, Gregg Valentine author, Bound & Petal Press, illustrated poetry for kids, indie children’s books, vintage style children’s illustrations, Shel Silverstein inspired poetry, modern picture book, self-published children’s literature, nostalgic children’s poems
