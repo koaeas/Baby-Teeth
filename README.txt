@@ -1,46 +1,59 @@
-Baby Teeth
+Baby Teeth – Children’s Poetry Book by Gregg Valentine
 
-Baby Teeth is a children’s poetry collection written by Gregg Valentine and brought to life with whimsical, vintage-inspired illustrations. This project combines storytelling, visual art, and self-publishing to create a one-of-a-kind book that feels like a modern classic.
+Baby Teeth is a whimsical children’s poetry collection written by Gregg Valentine and illustrated in a vintage, hand-drawn style. Published by Bound & Petal Press, this indie book blends lyrical poetry and nostalgic artwork into a modern storybook classic for families, teachers, and collectors.
 
-Published under Bound & Petal Press, Baby Teeth is the first in a series of creative works blending poetry and picture books.
+📖 About Baby Teeth
 
-About the Book
+Baby Teeth is a collection of playful and thought-provoking poems about childhood wonder, mischief, and imagination. Each poem is paired with warm, sepia-toned illustrations inspired by classic children’s books like Frog and Toad and the works of Shel Silverstein.
 
-Baby Teeth is a collection of poems that explore childhood wonder, mischief, and imagination. Each poem is paired with hand-drawn illustrations in a sepia-toned, storybook style reminiscent of Shel Silverstein, Frog and Toad, and Little Critter.
+The book’s design combines soft parchment textures, cross-hatching, and a timeless hand-drawn feel—perfect for readers who love modern indie publishing with a nostalgic twist.
 
-The project began as a collaboration between Gregg Valentine (author, poet, filmmaker) and Ashley Valentine (designer, illustrator, and creative partner). Together, we set out to create a book that feels both timeless and contemporary—perfect for families, teachers, collectors, and fans of modern children’s literature.
+✨ Features
 
-Features
+Original Poetry – lyrical, whimsical, and perfect for children and adults.
 
-📖 Original Poetry – playful, lyrical, and accessible to kids and adults alike.
+Illustrated Storybook Style – vintage pencil and ink drawings with cozy sepia tones.
 
-✏️ Illustrated by Hand – vintage pencil & ink cross-hatching with a warm, nostalgic tone.
+Independently Published – released under Bound & Petal Press via IngramSpark.
 
-🌱 Indie Published – released through Bound & Petal Press using IngramSpark for global distribution.
+For All Ages – ideal for read-alouds, classrooms, or as a thoughtful gift.
 
-🎨 Cohesive Design – soft muted colors, parchment backgrounds, and a classic picture-book feel.
+🌱 About the Author
 
-Where to Find Baby Teeth
+Gregg Valentine is a poet, storyteller, and multimedia artist. His work spans children’s literature, music, and film. With Baby Teeth, Gregg brings playful language, humor, and emotional depth into poems that resonate with kids and grown-ups alike.
 
-📚 Available worldwide through major retailers (Amazon, Barnes & Noble, Bookshop.org, etc.).
+🖋️ About Bound & Petal Press
 
-🏡 Direct from Bound & Petal Press
- for special editions and merchandise.
+Bound & Petal Press is an independent publisher dedicated to poetry, picture books, and imaginative storytelling. We publish books that are beautiful to hold, timeless to read, and magical to share.
 
-🎨 Related artwork and creative updates are shared on Instagram, Tumblr, and Etsy under The Whole Hoard and Bound & Petal Press.
+📚 Where to Buy Baby Teeth
 
-About the Author
+Buy Baby Teeth through the buy book link on babyteethpoems.com
 
-Gregg Valentine is a poet, storyteller, and multimedia artist. His work spans children’s literature, stop-motion film, and music. With Baby Teeth, Gregg brings his love of playful language and narrative to young readers and families.
+Available worldwide via Amazon, Barnes & Noble, Bookshop.org, and indie bookstores through IngramSpark distribution.
 
-About Bound & Petal Press
+❓ FAQ
 
-Bound & Petal Press is a small, independent publisher dedicated to nurturing poetry, picture books, and imaginative storytelling. Our mission is to publish books that feel beautiful in hand, timeless on the shelf, and magical in the hearts of readers.
+Who wrote Baby Teeth?
+Baby Teeth was written by Gregg Valentine, poet and storyteller.
 
-Contributing
+What age group is Baby Teeth for?
+The poems are written for children but designed to delight readers of all ages—perfect for families, teachers, and poetry fans.
 
-This GitHub repository exists to share updates, notes, and creative resources behind Baby Teeth. While the core content is closed, we welcome ideas, feedback, and community support!
+Where can I buy Baby Teeth?
+You can purchase through the buy button on babyteethpoems.com
+ or find it on major retailers like Amazon, Barnes & Noble, and Bookshop.org.
 
-Keywords for SEO
+What makes Baby Teeth unique?
+It combines indie publishing, lyrical poetry, and vintage-style illustrations for a book that feels both modern and timeless.
 
-Baby Teeth children’s poetry book, Gregg Valentine author, Bound & Petal Press, illustrated poetry for kids, indie children’s books, vintage style children’s illustrations, Shel Silverstein inspired poetry, modern picture book, self-published children’s literature, nostalgic children’s poems
+🔑 Keywords for Search Engines
+
+Baby Teeth children’s poetry book, Gregg Valentine author, Bound & Petal Press, indie children’s book, illustrated poetry for kids, Shel Silverstein style poems, vintage storybook illustrations, modern children’s poetry collection
+
+📜 License
+
+✅ Website source code is released under the MIT License
+.
+
+❌ All poetry, artwork, and book content are copyright © 2025 Gregg Valentine & Bound & Petal Press and may not be reproduced without permission.
